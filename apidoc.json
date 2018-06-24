@@ -1,0 +1,7 @@
+{
+    "name": "SuperBazar An Ecommerce Application",
+    "version": "0.0.1",
+    "description": "This is the documentation of Express MVC based REST API of a Ecommerce website",
+    "title": "SuperBazar An Ecommerce APIs",
+    "url" : "http://localhost:3000"
+}
